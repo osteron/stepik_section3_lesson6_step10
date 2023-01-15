@@ -1,6 +1,6 @@
 # stepik_section3_lesson6_step10
 
-Решения задания https://stepik.org/lesson/237240/step/10?unit=209628
+Решение задания https://stepik.org/lesson/237240/step/10?unit=209628
 
 Проверяется по следующим критериям:
 1. Тест в репозитории можно запустить командой pytest --language=es, тест успешно проходит.

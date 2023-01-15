@@ -25,7 +25,7 @@ class TestBookPage:
         # По заданию №2 устанавливается time.sleep(30)
         time.sleep(30)
         # Поиск кнопки добавления в корзину
-        # По заданию №4 добавлен assert
+        # По заданию №4 добавлен assert на проверку наличия кнопки добавления в корзину
         assert WebDriverWait(browser, 5).until(
                 EC.visibility_of_element_located((By.CLASS_NAME, 'btn-add-to-basket'))
             )
